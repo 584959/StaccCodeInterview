@@ -2,12 +2,12 @@
 
 ## Oppgavebeskrivelse
 Jeg har laget en utvidet versjon av a). 
-Det går an å søke på ulike attributer hvor det deretter vises en tabbel med alle matchende resultater.
-På resultatdien går det an å gå tilbake for å gjøre et nytt søk. 
+Det går an å søke på ulike attributter hvor det deretter vises en tabell med alle matchende resultater.
+På resultatsiden går det an å gå tilbake for å gjøre et nytt søk. 
 
 ## Hvordan kjøre prosjektet
 Prosjektet er skrevet i Java 11 og kjører på en TomEE 8.0.4 server.
-Jeg har brukt MVC modellen med Java servlets og jsp.
+Jeg har brukt MVC modellen med Java Servlets og jsp.
 I prosjektet har jeg lagt til pep.csv filen dere la ved.
 
 ## Kommentarer
